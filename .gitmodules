@@ -1,3 +1,3 @@
 [submodule "chronos"]
 	path = chronos
-  url = git@github.com:mesos/chronos.git
+  url = git@bitbucket.org:enverromon/chronos.git
